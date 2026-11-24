@@ -1,0 +1,6 @@
+*.har
+*.log
+.env
+.env.*
+raw/
+private/
